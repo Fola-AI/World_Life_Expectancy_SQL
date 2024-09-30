@@ -55,17 +55,20 @@ What is the average life expectancy across different regions and time periods?
 How do socioeconomic indicators such as GDP and schooling impact life expectancy?
 What are the correlations between life expectancy and health-related metrics like adult mortality and infant deaths?
 Are there any significant differences in life expectancy between developed and developing countries?
+
 Tools Used
+
 SQL: For querying, filtering, and analyzing the data.
+
 Database Management System: Any relational database that supports SQL, such as MySQL, PostgreSQL, or SQLite.
+
 How to Use
+
 Load the dataset into your preferred SQL-based environment.
 Run the provided SQL scripts to generate insights and visualizations.
 Modify the queries as needed to explore different aspects of the data.
-Future Enhancements
-Add more advanced SQL queries for predictive modeling.
-Create dashboards for dynamic visualization of key metrics.
-Integrate with other datasets to enrich the analysis.
+
+
 
 Contributing
 
