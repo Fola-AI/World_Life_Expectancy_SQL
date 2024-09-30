@@ -9,24 +9,43 @@ Dataset Information
 The dataset includes the following columns:
 
 Country: Name of the country.
+
 Year: Year of the data entry.
+
 Status: Classification of country (e.g., Developed, Developing).
+
 Life Expectancy: Average life expectancy in years.
+
 Adult Mortality: Mortality rate of adults aged 15-60 years.
+
 Infant Deaths: Number of infant deaths per 1,000 live births.
+
 Percentage Expenditure: Government health expenditure as a percentage of GDP.
+
 Measles: Number of reported cases per 100,000 people.
+
 BMI: Average Body Mass Index of the population.
+
 Under-Five Deaths: Mortality rate of children under five years.
+
 Polio: Number of reported Polio cases per 100,000 people.
+
 Diphtheria: Number of reported Diphtheria cases per 100,000 people.
+
 HIV/AIDS: Mortality rate due to HIV/AIDS.
+
 GDP: Gross Domestic Product in USD.
+
 Thinness (1-19 years): Percentage of population with thinness in age group 1-19 years.
+
 Thinness (5-9 years): Percentage of population with thinness in age group 5-9 years.
+
 Schooling: Average number of years of schooling.
+
 Row_ID: Unique identifier for each row.
+
 Analysis Objectives
+
 The goal of this analysis is to explore the relationship between life expectancy and various socioeconomic and health factors. Using SQL queries, we aim to uncover trends and patterns that may inform policy decisions and strategic initiatives in public health.
 
 
